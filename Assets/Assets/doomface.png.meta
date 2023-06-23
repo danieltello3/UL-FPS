@@ -1,0 +1,1125 @@
+fileFormatVersion: 2
+guid: 4e9bd23d1c63c4d23a35faa77972615c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doomface_shoot_full_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 975
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377a19455b0b14404a3635189dd3e41b
+      internalID: 2138554783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_shoot_full_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 975
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc662569db2d94a75be05392aca9b3f3
+      internalID: 746094781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_shoot_full_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 975
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6222442460c4a3e8a4779ef4826897
+      internalID: -886115454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_full_1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 975
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f9e307136fb4669b4348c0ecc698ec
+      internalID: -944848374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_full_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 975
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc2db3a2fd7c43cd82293a4782c505e
+      internalID: -37893997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_full_3
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 975
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d0d578c2c3a4e00b5f27dc3e5bcee1
+      internalID: -467127856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_6
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 975
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c5b1fbecceb45ae88e1f3ae3e30755
+      internalID: 168110507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_7
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 975
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3574cc5c962b40a49dd00a00db4c8d9
+      internalID: -1850463708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_shoot_75_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 787
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688de21162c304cac92582ef459b2164
+      internalID: -1674617072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_shoot_75_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 787
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4295c9a2c914260a891cf7e0d2bf0f
+      internalID: -586900057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_shoot_75_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 787
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95e91e8d40fe46418b85f5e89b82d83
+      internalID: 1149650807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_75_1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 787
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761d5631e1e194d92908ef2bf84ba53b
+      internalID: 1157047256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_75_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 787
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9384b42c8091e4979b02b20dcec24e3f
+      internalID: -493278692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_75_3
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 787
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542da0106d42e467c808c56a301fcfc3
+      internalID: -2002167496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_14
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 787
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517b8faccfdac46ac812c5ac2de9d124
+      internalID: -1816956269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_15
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 787
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9e71c083c4b41859d5339a5c99f279
+      internalID: 1461849089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_shoot_50_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 599
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19fad548fb5f49649ba54154f729050
+      internalID: -2045390658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_shoot_50_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 599
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7a2ad6e90f54b08bf8f729cb58022a
+      internalID: 930399417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_shoot_50_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 599
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530607ffd75ab4bbc94b59b87ba16f7a
+      internalID: 2124840439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_50_1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 599
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37a988ffdba4472ab117749612c12eb
+      internalID: 1044841793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_50_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 599
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093ace6ef5edc40f0a41b83bae1a5ddc
+      internalID: 74022637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_50_3
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 599
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add8e6c01f3894a66af4ff0fc07fca4d
+      internalID: -478235743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_22
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 599
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4400bb60791694519b38477e05a23551
+      internalID: -2072289290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_23
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 599
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1ddff4082e542579030f4d790dc2d9
+      internalID: -804694066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_shoot_30_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 411
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd773db718a344b1a35a4e8ca44c7d8
+      internalID: -544646232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_shoot_30_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 411
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb22f7ceec554660abcf4f957f950e6
+      internalID: 145937485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_shoot_30_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 411
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fb440ee8af1470cb8fddb0495ca49f
+      internalID: -130714298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_30_1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 411
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5673e5c66384bf9885a3c167f39572
+      internalID: -1882213541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_30_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 411
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371d902c326b94829b8f37f9a486ec4c
+      internalID: -2117740429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_30_3
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 411
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0cd9f99ffe542fa86d7b7669b4260b
+      internalID: 1630837215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_30
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 411
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d50177cd51e149dc8ab337f928d777a
+      internalID: -1149009857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_31
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 411
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f65f0861601741e4ac109ef1c4ef892
+      internalID: 1894449358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_shoot_15_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1639028fc8db3443f805d244c065d7c0
+      internalID: 230479350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_shoot_15_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 223
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c048d04efcf403095bf466ad2f3b9b
+      internalID: 1219456357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_shoot_15_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 223
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5d7d50bad854ccbac8cd1c6cfd9474
+      internalID: 774771563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_15_1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 223
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3e9dc9c58a248e29dcf9cdce3578c4
+      internalID: -1522511043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_15_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 223
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340539ba50ca846039a5b8a535d7ea3d
+      internalID: -2016274170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_15_3
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 223
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31350878eeea451da64e161f8cbdeda
+      internalID: 707665680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_38
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 223
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f8744f965d742c09ed64b7e2796a44
+      internalID: -799043735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_39
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 223
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d5f4fbf1dd04fe588a6c55d87bb25f
+      internalID: 278569334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_death
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be35ac534420244fd9b7977abe37bd0a
+      internalID: 1475093089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_41
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 35
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57cb89d2964b4c56b2862623e06ce0b
+      internalID: 1655841500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_42
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 35
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd464a5f8708b4870885bb5232e1b3b7
+      internalID: 1227755722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_43
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 35
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273bf25cef9004f42ac6507c299b1071
+      internalID: -1620995364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doomface_44
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 35
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282c47082e99b406ba0715fd9ce12c5b
+      internalID: -122855586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2c8c8c4a6d7564dd2a09d09ad968fe84
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      doomface_14: -1816956269
+      doomface_15: 1461849089
+      doomface_15_1: -1522511043
+      doomface_15_2: -2016274170
+      doomface_15_3: 707665680
+      doomface_22: -2072289290
+      doomface_23: -804694066
+      doomface_30: -1149009857
+      doomface_30_1: -1882213541
+      doomface_30_2: -2117740429
+      doomface_30_3: 1630837215
+      doomface_31: 1894449358
+      doomface_38: -799043735
+      doomface_39: 278569334
+      doomface_41: 1655841500
+      doomface_42: 1227755722
+      doomface_43: -1620995364
+      doomface_44: -122855586
+      doomface_50_1: 1044841793
+      doomface_50_2: 74022637
+      doomface_50_3: -478235743
+      doomface_6: 168110507
+      doomface_7: -1850463708
+      doomface_75_1: 1157047256
+      doomface_75_2: -493278692
+      doomface_75_3: -2002167496
+      doomface_death: 1475093089
+      doomface_full_1: -944848374
+      doomface_full_2: -37893997
+      doomface_full_3: -467127856
+      doomface_shoot_15_1: 230479350
+      doomface_shoot_15_2: 1219456357
+      doomface_shoot_15_3: 774771563
+      doomface_shoot_30_1: -544646232
+      doomface_shoot_30_2: 145937485
+      doomface_shoot_30_3: -130714298
+      doomface_shoot_50_1: -2045390658
+      doomface_shoot_50_2: 930399417
+      doomface_shoot_50_3: 2124840439
+      doomface_shoot_75_1: -1674617072
+      doomface_shoot_75_2: -586900057
+      doomface_shoot_75_3: 1149650807
+      doomface_shoot_full_1: 2138554783
+      doomface_shoot_full_2: 746094781
+      doomface_shoot_full_3: -886115454
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
